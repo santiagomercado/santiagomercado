@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hi, I'm Santiago Mercado 👋
 
 - 🔭 I’m currently working on my thesis
 - 🌱 I’m currently learning React
